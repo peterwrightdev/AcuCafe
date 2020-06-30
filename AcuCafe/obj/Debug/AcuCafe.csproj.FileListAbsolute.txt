@@ -1,0 +1,6 @@
+C:\Users\Peter.Wright\Desktop\AcuCafe\AcuCafe\AcuCafe\bin\Debug\AcuCafe.dll
+C:\Users\Peter.Wright\Desktop\AcuCafe\AcuCafe\AcuCafe\bin\Debug\AcuCafe.pdb
+C:\Users\Peter.Wright\Desktop\AcuCafe\AcuCafe\AcuCafe\obj\Debug\AcuCafe.csprojAssemblyReference.cache
+C:\Users\Peter.Wright\Desktop\AcuCafe\AcuCafe\AcuCafe\obj\Debug\AcuCafe.csproj.CoreCompileInputs.cache
+C:\Users\Peter.Wright\Desktop\AcuCafe\AcuCafe\AcuCafe\obj\Debug\AcuCafe.dll
+C:\Users\Peter.Wright\Desktop\AcuCafe\AcuCafe\AcuCafe\obj\Debug\AcuCafe.pdb
