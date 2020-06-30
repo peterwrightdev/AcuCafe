@@ -41,11 +41,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AcuCafe.cs" />
+    <Compile Include="CondimentPrices.cs" />
+    <Compile Include="Drinks\Drink.cs" />
+    <Compile Include="Drinks\Expresso.cs" />
+    <Compile Include="Drinks\IceTea.cs" />
+    <Compile Include="Drinks\Tea.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="ReadMe.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

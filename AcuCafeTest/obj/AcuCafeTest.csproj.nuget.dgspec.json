@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dev\\Projects\\AcuCafe\\AcuCafe\\AcuCafeTest\\AcuCafeTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Dev\\Projects\\AcuCafe\\AcuCafe\\AcuCafeTest\\AcuCafeTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\Projects\\AcuCafe\\AcuCafe\\AcuCafeTest\\AcuCafeTest.csproj",
+        "projectName": "AcuCafeTest",
+        "projectPath": "C:\\Dev\\Projects\\AcuCafe\\AcuCafe\\AcuCafeTest\\AcuCafeTest.csproj",
+        "packagesPath": "C:\\Users\\Peter.Wright\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\Projects\\AcuCafe\\AcuCafe\\AcuCafeTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Peter.Wright\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGateway": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Dev\\Projects\\AcuCafe\\AcuCafe\\AcuCafe\\AcuCafe.csproj": {
+                "projectPath": "C:\\Dev\\Projects\\AcuCafe\\AcuCafe\\AcuCafe\\AcuCafe.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\Projects\\AcuCafe\\AcuCafe\\AcuCafe\\AcuCafe.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\Projects\\AcuCafe\\AcuCafe\\AcuCafe\\AcuCafe.csproj",
+        "projectName": "AcuCafe",
+        "projectPath": "C:\\Dev\\Projects\\AcuCafe\\AcuCafe\\AcuCafe\\AcuCafe.csproj"
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    }
+  }
+}
