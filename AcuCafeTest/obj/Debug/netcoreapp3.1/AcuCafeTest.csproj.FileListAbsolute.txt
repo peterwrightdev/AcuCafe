@@ -89,8 +89,10 @@ C:\Dev\Projects\AcuCafe\AcuCafe\AcuCafeTest\bin\Debug\netcoreapp3.1\AcuCafe.pdb
 C:\Dev\Projects\AcuCafe\AcuCafe\AcuCafeTest\obj\Debug\netcoreapp3.1\AcuCafeTest.csprojAssemblyReference.cache
 C:\Dev\Projects\AcuCafe\AcuCafe\AcuCafeTest\obj\Debug\netcoreapp3.1\AcuCafeTest.AssemblyInfoInputs.cache
 C:\Dev\Projects\AcuCafe\AcuCafe\AcuCafeTest\obj\Debug\netcoreapp3.1\AcuCafeTest.AssemblyInfo.cs
-C:\Dev\Projects\AcuCafe\AcuCafe\AcuCafeTest\obj\Debug\netcoreapp3.1\AcuCafeTest.csproj.CoreCompileInputs.cache
 C:\Dev\Projects\AcuCafe\AcuCafe\AcuCafeTest\obj\Debug\netcoreapp3.1\AcuCafeTest.csproj.CopyComplete
 C:\Dev\Projects\AcuCafe\AcuCafe\AcuCafeTest\obj\Debug\netcoreapp3.1\AcuCafeTest.dll
 C:\Dev\Projects\AcuCafe\AcuCafe\AcuCafeTest\obj\Debug\netcoreapp3.1\AcuCafeTest.pdb
 C:\Dev\Projects\AcuCafe\AcuCafe\AcuCafeTest\obj\Debug\netcoreapp3.1\AcuCafeTest.genruntimeconfig.cache
+C:\Dev\Projects\AcuCafe\AcuCafe\AcuCafeTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Dev\Projects\AcuCafe\AcuCafe\AcuCafeTest\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Dev\Projects\AcuCafe\AcuCafe\AcuCafeTest\obj\Debug\netcoreapp3.1\AcuCafeTest.csproj.CoreCompileInputs.cache
